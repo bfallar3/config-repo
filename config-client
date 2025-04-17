@@ -1,0 +1,4 @@
+
+# This file should be placed in your Git repository
+app.greeting=Hello from Config Server!
+app.description=This property is loaded from the Config Server
